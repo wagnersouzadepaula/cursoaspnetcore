@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/css/site_bundle.min.css",
+      "PackagePath": "staticwebassets/css/site_bundle.min.css"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/js/site_bundle.min.js",
+      "PackagePath": "staticwebassets/js/site_bundle.min.js"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/.DS_Store",
+      "PackagePath": "staticwebassets/lib/.DS_Store"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/bootstrap/.DS_Store",
+      "PackagePath": "staticwebassets/lib/bootstrap/.DS_Store"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/bootstrap/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/bootstrap/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/bootstrap/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/bootstrap/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/font-awesome/css/font-awesome.css",
+      "PackagePath": "staticwebassets/lib/font-awesome/css/font-awesome.css"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/font-awesome/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/lib/font-awesome/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/font-awesome/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/lib/font-awesome/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/font-awesome/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/lib/font-awesome/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/font-awesome/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/lib/font-awesome/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/font-awesome/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/lib/font-awesome/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/font-awesome/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/lib/font-awesome/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/jquery-validate/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/additional-methods.js"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/jquery-validate/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/jquery-validate/localization/methods_pt.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/methods_pt.js"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/jquery/core.js",
+      "PackagePath": "staticwebassets/lib/jquery/core.js"
+    },
+    {
+      "Id": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/wwwroot/lib/jquery/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/jquery.js"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.DevIO.UI.Site.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.build.DevIO.UI.Site.props",
+      "PackagePath": "build\\DevIO.UI.Site.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.buildMultiTargeting.DevIO.UI.Site.props",
+      "PackagePath": "buildMultiTargeting\\DevIO.UI.Site.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.buildTransitive.DevIO.UI.Site.props",
+      "PackagePath": "buildTransitive\\DevIO.UI.Site.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

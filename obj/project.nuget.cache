@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "NIBUg213siz9S7CgbhGAU6yAF4il0TDmRctj7pJM/LEil0qF6PHFWxj8Q/dS8+E3mRsLn41F2l6aUXrzVlXHcg==",
+  "success": true,
+  "projectFilePath": "/Users/wagnersouzadepaula/Desktop/Cursos_extras/DominandoOAspNetMvcCore/AppModelo/AppModelo/src/DevIO.UI.Site/DevIO.UI.Site.csproj",
+  "expectedPackageFiles": [
+    "/Users/wagnersouzadepaula/.nuget/packages/buildbundlerminifier/3.2.449/buildbundlerminifier.3.2.449.nupkg.sha512",
+    "/Users/wagnersouzadepaula/.nuget/packages/microsoft.entityframeworkcore/7.0.4/microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
+    "/Users/wagnersouzadepaula/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.4/microsoft.entityframeworkcore.abstractions.7.0.4.nupkg.sha512",
+    "/Users/wagnersouzadepaula/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.4/microsoft.entityframeworkcore.analyzers.7.0.4.nupkg.sha512",
+    "/Users/wagnersouzadepaula/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.3/microsoft.entityframeworkcore.relational.7.0.3.nupkg.sha512",
+    "/Users/wagnersouzadepaula/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/wagnersouzadepaula/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/wagnersouzadepaula/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/wagnersouzadepaula/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/wagnersouzadepaula/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/wagnersouzadepaula/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/wagnersouzadepaula/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/wagnersouzadepaula/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/wagnersouzadepaula/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/wagnersouzadepaula/.nuget/packages/microsoft.visualstudio.taskrunnerexplorer.14.0/14.0.0/microsoft.visualstudio.taskrunnerexplorer.14.0.14.0.0.nupkg.sha512",
+    "/Users/wagnersouzadepaula/.nuget/packages/npgsql/7.0.2/npgsql.7.0.2.nupkg.sha512",
+    "/Users/wagnersouzadepaula/.nuget/packages/npgsql.entityframeworkcore.postgresql/7.0.3/npgsql.entityframeworkcore.postgresql.7.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.VisualStudio.TaskRunnerExplorer.14.0 14.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.VisualStudio.TaskRunnerExplorer.14.0",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

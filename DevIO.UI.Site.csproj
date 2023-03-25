@@ -1,0 +1,68 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <None Remove="Models\" />
+    <None Remove="Views\" />
+    <None Remove="Controllers\" />
+    <None Remove="Views\Home\" />
+    <None Remove="Views\Shared\" />
+    <None Remove="Extensions\" />
+    <None Remove="Areas\Produtos\" />
+    <None Remove="Areas\Produtos\Controllers\" />
+    <None Remove="Areas\Produtos\Data\" />
+    <None Remove="Areas\Produtos\Models\" />
+    <None Remove="Areas\Produtos\Views\" />
+    <None Remove="Areas\Produtos\Views\Cadastro\" />
+    <None Remove="Modulos\Vendas\" />
+    <None Remove="Modulos\Vendas\Controllers\" />
+    <None Remove="Modulos\Vendas\Data\" />
+    <None Remove="Modulos\Vendas\Models\" />
+    <None Remove="Modulos\Vendas\Views\" />
+    <None Remove="Modulos\Vendas\Views\Pedidos\" />
+    <None Remove="Data\" />
+    <None Remove="Servicos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Views\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Views\Home\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="wwwroot\" />
+    <Folder Include="wwwroot\css\" />
+    <Folder Include="wwwroot\js\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Modulos\Produtos\" />
+    <Folder Include="Modulos\Produtos\Controllers\" />
+    <Folder Include="Modulos\Produtos\Data\" />
+    <Folder Include="Modulos\Produtos\Models\" />
+    <Folder Include="Modulos\Produtos\Views\" />
+    <Folder Include="Modulos\Produtos\Views\Cadastro\" />
+    <Folder Include="Modulos\Vendas\" />
+    <Folder Include="Modulos\Vendas\Controllers\" />
+    <Folder Include="Modulos\Vendas\Data\" />
+    <Folder Include="Modulos\Vendas\Models\" />
+    <Folder Include="Modulos\Vendas\Views\" />
+    <Folder Include="Modulos\Vendas\Views\Pedidos\" />
+    <Folder Include="Data\" />
+    <Folder Include="Servicos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\" />
+    <Content Remove="wwwroot\css\" />
+    <Content Remove="wwwroot\js\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="BuildBundlerMinifier" Version="3.2.449" />
+    <PackageReference Include="Microsoft.VisualStudio.TaskRunnerExplorer.14.0" Version="14.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.4" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.3" />
+  </ItemGroup>
+</Project>

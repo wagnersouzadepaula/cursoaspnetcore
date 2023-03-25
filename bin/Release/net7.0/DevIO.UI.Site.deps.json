@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DevIO.UI.Site/1.0.0": {
+        "dependencies": {
+          "BuildBundlerMinifier": "3.2.449",
+          "Microsoft.VisualStudio.TaskRunnerExplorer.14.0": "14.0.0"
+        },
+        "runtime": {
+          "DevIO.UI.Site.dll": {}
+        }
+      },
+      "BuildBundlerMinifier/3.2.449": {},
+      "Microsoft.VisualStudio.TaskRunnerExplorer.14.0/14.0.0": {
+        "runtime": {
+          "lib/net40/Microsoft.VisualStudio.TaskRunnerExplorer.14.0.dll": {
+            "assemblyVersion": "14.0.0.0",
+            "fileVersion": "14.1.11107.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevIO.UI.Site/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuildBundlerMinifier/3.2.449": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uA9sYDy4VepL3xwzBTLcP2LyuVYMt0ZIT3gaSiXvGoX15Ob+rOP+hGydhevlSVd+rFo+Y+VQFEHDuWU8HBW+XA==",
+      "path": "buildbundlerminifier/3.2.449",
+      "hashPath": "buildbundlerminifier.3.2.449.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.TaskRunnerExplorer.14.0/14.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iZpAv8bEWjkyxFF1GIcSOfldqP/umopJKnJGKHa0vg8KR7ZY3u3dWtJmwO4w3abIx+176SIkQe78y5A+/Md7FA==",
+      "path": "microsoft.visualstudio.taskrunnerexplorer.14.0/14.0.0",
+      "hashPath": "microsoft.visualstudio.taskrunnerexplorer.14.0.14.0.0.nupkg.sha512"
+    }
+  }
+}
